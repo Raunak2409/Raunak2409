@@ -139,7 +139,7 @@ Expense tracking and financial management application.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raunak2409&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak2409&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=Raunak2409&theme=tokyonight&hide_border=true" />
 
 </div>
 
