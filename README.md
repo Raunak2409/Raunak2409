@@ -2,19 +2,21 @@
 
 # Hey, I'm Raunak Kumar 👋
 
-### AI Engineer • Full Stack Developer • Product Builder
-
-Building AI-powered applications, developer tools, and intelligent systems.
+### AI Engineer • Full Stack Developer • Building Intelligent Applications
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+AI-Powered+Applications;Full+Stack+Developer;Developer+Tools+%26+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raunak-kumar-284b42251">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" />
+  <a href="mailto:raunak.kr.kr2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-yellow?style=for-the-badge&logo=leetcode" />
+  <a href="https://github.com/Raunak2409">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -26,61 +28,55 @@ Building AI-powered applications, developer tools, and intelligent systems.
 
 🎓 B.Tech CSE Student at Galgotias University
 
-🤖 Passionate about Artificial Intelligence, LLMs, RAG Systems and Intelligent Applications
+🤖 Passionate about Artificial Intelligence, AI Engineering, and Intelligent Systems
 
-💻 Full Stack Developer with experience building scalable web applications
+💻 Full Stack Developer focused on building real-world applications and developer tools
 
-📚 Currently learning:
-- System Design
+📚 Currently Exploring
+
 - AI Engineering
-- Agentic Workflows
-- Vector Databases
+- System Design
+- Agentic AI Workflows
 - Advanced Backend Development
+- Scalable Software Architecture
 
-🏆 AICTE Certified
-
-⚡ I enjoy turning ideas into real products.
-
----
-
-## 🛠 Tech Arsenal
-
-### AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- LangChain
-- Gemini API
-- RAG Pipelines
-- Prompt Engineering
-- Vector Search
-- AI Application Development
+⚡ I enjoy turning ideas into deployable products.
 
 ---
 
-### Full Stack Development
+## ⚡ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,java" />
-</p>
+<div align="center">
 
----
+### AI • Backend • Programming
+
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,express" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind" />
 
 ### Databases
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
----
 
 ### Tools & DevOps
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</p>
+
+</div>
+
+---
+
+## 🛠️ What I'm Building
+
+```text
+🔹 AI-powered developer tools
+🔹 Intelligent repository analysis systems
+🔹 Full-stack web applications
+🔹 Scalable backend services
+🔹 Real-world software products
+```
 
 ---
 
@@ -90,127 +86,100 @@ Building AI-powered applications, developer tools, and intelligent systems.
 
 AI-powered repository visualization and code understanding platform.
 
-### Features
-- Repository analysis
-- Interactive visualization
-- AI-powered insights
-- Developer productivity tools
+**Highlights**
 
----
+- Interactive codebase visualization
+- Repository structure analysis
+- AI-assisted project exploration
+- Developer productivity focused
 
-## 📄 PDF Chatbot
+**Tech Stack**
 
-RAG-powered document assistant built using LangChain and Gemini.
-
-### Features
-- PDF ingestion
-- Semantic search
-- Context-aware responses
-- Retrieval Augmented Generation
+`React` • `Node.js` • `AI Integration`
 
 ---
 
 ## ✅ AuraTask
 
-Full-stack project and task management platform.
+Modern project and task management platform.
 
-### Features
-- Authentication
-- Project management
-- Role-based access control
-- Task tracking
+**Highlights**
 
----
+- Authentication & Authorization
+- Project Management
+- Task Assignment & Tracking
+- Role-Based Access Control
 
-## ⌨️ TypingQuest
+**Tech Stack**
 
-Gamified typing speed improvement application.
-
-### Features
-- Typing challenges
-- Performance tracking
-- Interactive UI
-- Progress analytics
+`Next.js` • `Prisma` • `PostgreSQL`
 
 ---
 
-## 🎯 Current Focus
+## 💰 RedLedger
 
-```txt
-✓ Building AI-powered products
-✓ Learning Production AI Systems
-✓ Improving System Design skills
-✓ Exploring Agentic AI
-✓ Open Source Contributions
-```
+Expense tracking and financial management application.
+
+**Highlights**
+
+- Expense Management
+- Financial Tracking
+- Dashboard Analytics
+- Responsive UI
+
+**Tech Stack**
+
+`React` • `Node.js` • `MongoDB`
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raunak2409&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak2409&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raunak2409&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak2409&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak2409&theme=tokyonight&hide_border=true" />
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raunak2409&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunak2409&theme=tokyo-night&hide_border=true" />
-</p>
+
+</div>
 
 ---
 
-## 🎯 2026 Goals
+## 🌱 Currently Learning
 
-- 🚀 Secure an AI Engineering role
-- 🤖 Build production-grade AI applications
-- 📚 Deepen System Design expertise
-- 🔥 Contribute to Open Source
-- 💡 Launch impactful software products
-
----
-
-## 💭 Philosophy
-
-> Build things that solve real problems.
->
-> Then make them impossible to ignore.
+```text
+✓ AI Engineering
+✓ System Design
+✓ Advanced Backend Development
+✓ Scalable Architectures
+✓ Production-Ready Applications
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Raunak_Kumar-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<div align="center">
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+<a href="https://www.linkedin.com/in/raunak-kumar-284b42251">
+<img src="https://img.shields.io/badge/LinkedIn-Raunak%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+<a href="mailto:raunak.kr.kr2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-raunak.kr.kr2@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
@@ -218,6 +187,6 @@ Gamified typing speed improvement application.
 
 ### Thanks for visiting 👨‍💻
 
-Building the future, one commit at a time.
+Building useful software, one commit at a time.
 
 </div>
